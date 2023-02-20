@@ -1,0 +1,1 @@
+# architectify-netlify-cms
