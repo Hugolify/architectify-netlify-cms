@@ -1,0 +1,14 @@
+{
+    "name": "architectify-netlify-cms",
+    "version": "1.0.0",
+    "homepage": "https://www.architectify.fr",
+    "repository": "https://github.com/hugolify/architectify-netlify-cms",
+    "bugs": {
+        "url": "https://github.com/hugolify/architectify-netlify-cms/issues"
+    },
+    "author": {
+        "name": "Sébastien Moulène",
+        "url": "https://www.sebastienmoulene.com/"
+    },
+    "license": "MIT"
+}
