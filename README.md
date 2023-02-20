@@ -2,25 +2,23 @@
 
 ## Table of contents
 
-- [Architectify Netlify CMS](#architectify-netlify-cms)
-  - [Table of contents](#table-of-contents)
-  - [Features](#features)
-  - [Screenshot](#screenshot)
-  - [Depend repository](#depend-repository)
-  - [Live demo](#live-demo)
-  - [Install](#install)
-  - [Documentations](#documentations)
-  - [License](#license)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Depend repository](#depend-repository)
+- [Live demo](#live-demo)
+- [Install](#install)
+- [Documentations](#documentations)
+- [License](#license)
 
 
 ## Features
 - rubrics `create false`
 - pages
-- persons
-- offices
 - projects
   - types (projects taxonomy)
   - tags (projects taxonomy)
+- persons
+- offices
 - posts
   - categories (posts taxonomy)
   - tags (posts taxonomy)
@@ -41,7 +39,7 @@
 * Hugolify Netlify CMS : [Hugolify template](https://github.com/hugolify/hugolify-netlify-cms)
 
 ## Live demo
-- Front: https://demo.lawyerify.fr
+- Front: https://demo.architectify.fr
 
 ## Install
 
