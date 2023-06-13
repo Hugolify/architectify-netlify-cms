@@ -24,7 +24,6 @@ const offices = {
     summary: '{{title}}',
 
     slug: '{{slug}}',
-    path: '{{slug}}/_index',
 
     fields: [
         isNotIndex,
